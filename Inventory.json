@@ -1,4 +1,19 @@
-﻿{
-
+{
+  "TypesOfStock": [
+    {
+      "name": "Bajaj Finance ",
+      "NoOfshare": 12,
+      "price": 2400
+    },
+    {
+      "name": "Adani Ports  ",
+      "NoOfshare": 14,
+      "price": 3300
+    },
+    {
+      "name": "Asian Paints ",
+      "NoOfshare": 20,
+      "price": 4520
+    }
+  ]
 }
-
